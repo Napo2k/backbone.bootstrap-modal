@@ -83,5 +83,5 @@ Prevents the modal from closing. Can be called from within a 'ok' or 'cancel' ev
       if (!isValid) modal.preventClose();
     });
 
-##Live demo
-You can read a short article and see live demo on [sys.exit()](http://sys-exit.blogspot.com/2013/08/backbone-bootstrap-modal-example.html) blog.
+###Ownership
+All ownership goes to the original repository authors ( https://github.com/powmedia/backbone.bootstrap-modal ). I just forked this and slightly modified for my own evil world domination purposes.
